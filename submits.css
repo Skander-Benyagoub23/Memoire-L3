@@ -1,0 +1,32 @@
+/* .container{
+    margin: auto;
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sub{
+    width: 20vw;
+    max-width: 100px;
+    outline:none;
+    margin-left: 10px;
+    height: max(5vh,25px);
+    font-size:1em ;
+    flex-shrink: 0;
+    border: blueviolet 1px solid;
+}
+
+.add{
+    background-color:rgb(1, 207, 1);
+    color: #fff;
+}
+.add:hover{
+    background-color:rgb(0, 146, 0);
+    cursor: pointer;
+}
+ */
+
+
+
+
